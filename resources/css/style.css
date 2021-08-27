@@ -4,11 +4,6 @@ H1 {
     color: white;
 }
 
-.comsoon {
-    color: aquamarine;
-    font-size: 16px;
-}
-
 html {
     font-family: Verdana;
     background-color: black;
@@ -30,4 +25,13 @@ footer {
     text-align: right;
     color: gray;
     font-size: 21px;
+}
+
+a:link {
+    color: aquamarine;
+    font-size: 16px;
+}
+
+a:visited {
+    color: aquamarine;
 }
